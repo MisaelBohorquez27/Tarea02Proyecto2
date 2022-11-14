@@ -1,0 +1,17 @@
+clasesPrincipales\CartaJuego.class
+clasesPrincipales\Configuracion.class
+clasesPrincipales\Juego.class
+com\mycompany\proyecto2\GUIStarter.class
+com\mycompany\proyecto2\JuegoController.class
+com\mycompany\proyecto2\JuegoController$TiempoRunnable.class
+clasesPrincipales\Carta.class
+clasesPrincipales\Tablero.class
+com\mycompany\proyecto2\App.class
+clasesPrincipales\Mazo.class
+com\mycompany\proyecto2\PrincipalController.class
+module-info.class
+clasesPrincipales\Participante.class
+com\mycompany\proyecto2\ConfiguracionesController.class
+clasesPrincipales\Alineacion.class
+com\mycompany\proyecto2\ReporteController.class
+com\mycompany\proyecto2\NuevoJuegoController.class
